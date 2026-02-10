@@ -9,4 +9,4 @@ python3 shapes.py
 ```
 
 ## Output Screenshot
-![Shapes Output](Pasted%20image.png)
+![Shapes Output](shapes_output.png)
